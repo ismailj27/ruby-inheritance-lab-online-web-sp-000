@@ -1,4 +1,4 @@
-require_relative "./vehicle.rb"
+require_relative "./user.rb"
 require "pry"
 class User
   
